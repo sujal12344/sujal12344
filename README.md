@@ -13,20 +13,19 @@
 
 - 📫 How to reach me **sujalkesharwani220@gmail.com**
 
-
-##  Tech Toolbox💼
+## Tech Toolbox💼
 
 **Frequently used technologies:**
 
 <p>
-<img src="https://raw.githubusercontent.com/DhrishP/DhrishP/main/images/nextjs.png" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/tailwind.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/typescript.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/drizzle.png"  height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/nextjs.png" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/tailwind.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/typescript.svg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/drizzle.png"  height="40" style="vertical-align:down;margin:4px">
 
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/postgres.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/react.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/postgres.svg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/react.svg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
 
 
 
@@ -35,18 +34,18 @@
 **Currently exploring:**
 
 <p > 
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/py.svg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/py.svg" height="40" style="vertical-align:down;margin:4px">
 </p>
 
 **Also experienced with:**
 
 <p>
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/nodejs.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/prisma.png" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/cf.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/docker.png" height="40" style="vertical-align:down;margin-left:7px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/stripe-logo.png" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/langC.png" height="45" style="vertical-align:down;margin:4px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/nodejs.svg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/prisma.png" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/cf.svg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/docker.png" height="40" style="vertical-align:down;margin-left:7px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/stripe-logo.png" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/sujal12344/sujal12344/blob/main/images/langC.png" height="45" style="vertical-align:down;margin:4px">
 </p>
 
 ## Connect with me

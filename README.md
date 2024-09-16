@@ -21,9 +21,9 @@
 
 <p>
   <img src="https://github.com/sujal12344/sujal12344/blob/main/images/nextjs.png" height="40" alt="Next.js" />
-  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/tailwind.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/typescript.svg" height="40" alt="TypeScript" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/typescript.svg" height="38" alt="TypeScript" />
   <img src="https://github.com/sujal12344/sujal12344/blob/main/images/react.svg" height="40" alt="React.js" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/tailwind.svg" height="40" alt="Tailwind CSS" />
 </p>
 
 **Also experienced with:**

@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A Passionate Developer From India</h3>
 
-<img align="right" alt="coding" width="400" height="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd" />
+<img align="right" alt="coding" width="400" height="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd" />
 
 - 🔭 I’m currently working on **AI Companion**
 

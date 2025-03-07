@@ -5,9 +5,9 @@
 
 <img align="right" alt="coding" width="400" height="270" src="https://media.tenor.com/rePDfDWO3XoAAAAd" />
 
-- 🔭 I’m currently working on **AI Companion**
+- 🔭 I’m currently working on **Some Special Project**
 
-- 🌱 I’m currently learning **to build completely type-safe and scalable web applications**
+- 🌱 I’m currently learning **to build completely UI/UX and scalable web applications**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sujal12344) and [Portfolio Website](https://sujal-five.vercel.app/)
 
@@ -36,7 +36,7 @@
 
 ## Connect with me
 
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/sujal-kesharwani-978632258" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sujal Kesharwani" height="30" width="40" />
   </a>

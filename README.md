@@ -39,13 +39,13 @@
 ## Connect with me
 
 <p>
-  <a href="https://linkedin.com/in/sujal-kesharwani-978632258" target="_blank">
+  <a href="https://www.linkedin.com/in/sujal-kesharwani-518798368/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sujal Kesharwani" height="30" width="40" />
   </a>
   <a href="https://github.com/sujal12344" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sujal12344" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/sujal220" target="_blank">
+  <a href="https://twitter.com/Sujalkeshar220" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sujal Twitter" height="30" width="40" />
   </a>
 </p>

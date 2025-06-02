@@ -24,6 +24,7 @@
   <img src="https://github.com/sujal12344/sujal12344/blob/main/images/typescript.svg" height="38" alt="TypeScript" />
   <img src="https://github.com/sujal12344/sujal12344/blob/main/images/react.svg" height="40" alt="React.js" />
   <img src="https://github.com/sujal12344/sujal12344/blob/main/images/tailwind.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/postgres.svg" height="40" alt="PostgreSQL" />
 </p>
 
 **Also experienced with:**
@@ -31,6 +32,7 @@
 <p>
   <img src="https://github.com/sujal12344/sujal12344/blob/main/images/nodejs.svg" height="40" alt="Node.js" />
   <img src="https://github.com/sujal12344/sujal12344/blob/main/images/prisma.png" height="40" alt="Prisma" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/docker.png" height="40" alt="Docker" />
   <img src="https://github.com/sujal12344/sujal12344/blob/main/images/stripe-logo.png" height="40" alt="Stripe" />
 </p>
 

@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" height="270" src="https://media.tenor.com/rePDfDWO3XoAAAAd" />
 
-- 🔭 I’m currently working as a **Full Stack Developer** at a @waves-ducks-core, contributing to production-level web applications.
+- 🔭 I’m currently working as a **Full Stack Developer** at a [Arkimals](https://github.com/waves-ducks-core), contributing to production-level web applications.
 
 - 🌱 I’m currently learning **to build completely UI/UX and scalable web applications**
 

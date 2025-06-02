@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **to build completely UI/UX and scalable web applications**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sujal12344) and my [Portfolio Website](https://sujal-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sujal12344) and my [Portfolio Website](https://childish.vercel.app/)
 
 - 💬 Ask me about **React.js, Node.js, MongoDB, Next.js, Express.js**
 

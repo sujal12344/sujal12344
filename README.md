@@ -5,11 +5,11 @@
 
 <img align="right" alt="coding" width="400" height="270" src="https://media.tenor.com/rePDfDWO3XoAAAAd" />
 
-- 🔭 I’m currently working on **Some Special Project**
+- 🔭 I’m currently working as a **Full Stack Developer** at a @waves-ducks-core, contributing to production-level web applications.
 
 - 🌱 I’m currently learning **to build completely UI/UX and scalable web applications**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sujal12344) and [Portfolio Website](https://sujal-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sujal12344) and my [Portfolio Website](https://sujal-five.vercel.app/)
 
 - 💬 Ask me about **React.js, Node.js, MongoDB, Next.js, Express.js**
 

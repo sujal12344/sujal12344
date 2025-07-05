@@ -20,20 +20,20 @@
 **Frequently used technologies:**
 
 <p>
-  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/nextjs.png" height="40" alt="Next.js" />
-  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/typescript.svg" height="38" alt="TypeScript" />
-  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/react.svg" height="40" alt="React.js" />
-  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/tailwind.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/postgres.svg" height="40" alt="PostgreSQL" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/nextjs.png" height="40" alt="Next.js"  style="height:32px; width:32px; object-fit:contain; margin-right:10px;" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/typescript.svg" height="38" alt="TypeScript"  style="height:32px; width:32px; object-fit:contain; margin-right:10px;" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/react.svg" height="40" alt="React.js" style="height:32px; width:32px; object-fit:contain; margin-right:10px;" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/tailwind.svg" height="40" alt="Tailwind CSS" style="height:32px; width:32px; object-fit:contain; margin-right:10px;" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/postgres.svg" height="40" alt="PostgreSQL" style="height:32px; width:32px; object-fit:contain; margin-right:10px;" />
 </p>
 
 **Also experienced with:**
 
 <p>
-  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/nodejs.svg" height="40" alt="Node.js" />
-  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/prisma.png" height="40" alt="Prisma" />
-  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/docker.png" height="40" alt="Docker" />
-  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/stripe-logo.png" height="40" alt="Stripe" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/nodejs.svg" height="40" alt="Node.js" style="height:32px; width:32px; object-fit:contain; margin-right:10px;" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/prisma.png" height="40" alt="Prisma" style="height:32px; width:32px; object-fit:contain; margin-right:10px;" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/docker.png" height="40" alt="Docker" style="height:32px; width:32px; object-fit:contain; margin-right:10px;" />
+  <img src="https://github.com/sujal12344/sujal12344/blob/main/images/stripe-logo.png" height="40" alt="Stripe" style="height:32px; width:32px; object-fit:contain; margin-right:10px;" />
 </p>
 
 ## Connect with me

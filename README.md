@@ -5,11 +5,11 @@
 
 <img align="right" alt="coding" width="400" height="270" src="https://media.tenor.com/rePDfDWO3XoAAAAd" />
 
-- 🔭 I’m currently working as a **Full Stack Developer** at a [Arkimals](https://github.com/waves-ducks-core), contributing to production-level web applications.
+- 🔭 Full Stack Developer passionate about creating scalable products and solving real-world problems through clean code.
 
 - 🌱 I’m currently learning **to build completely UI/UX and scalable web applications**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sujal12344) and my [Portfolio Website](https://childish.vercel.app/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sujal12344) and my [Portfolio Website](https://sujalk.vercel.app/)
 
 - 💬 Ask me about **React.js, Node.js, MongoDB, Next.js, Express.js**
 
@@ -42,3 +42,4 @@
 <a href="https://twitter.com/Sujalkeshar220" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://github.com/sujal12344" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sujal-kesharwani-518798368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
